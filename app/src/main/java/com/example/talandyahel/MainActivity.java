@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(getApplicationContext(), "The string is: "+textFromUi, Toast.LENGTH_LONG).show();
 
                 Toast.makeText(getApplicationContext(), "The string is: "+bol, Toast.LENGTH_LONG).show();
-
+//
             }
         });
     }
