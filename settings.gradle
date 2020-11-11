@@ -1,0 +1,3 @@
+include ':ValidationText'
+include ':app'
+rootProject.name = "TalAndYahel"
