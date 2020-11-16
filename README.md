@@ -7,7 +7,7 @@ Validation Function Library
 [![License](https://img.shields.io/github/license/yahelbn/ValidationFunctionLib)](https://opensource.org/licenses/Apache-2.0)
 [![License](https://img.shields.io/twitter/url?style=social)](https://opensource.org/licenses/Apache-2.0)
 
-<img src="https://drive.google.com/file/d/1RRhTiF-S1NXt76aH-4sW2_yr6V554OQd/view?usp=sharing" alt="My cool logo" width=120/>
+![Alt text](https://drive.google.com/file/d/1RRhTiF-S1NXt76aH-4sW2_yr6V554OQd/view?usp=sharing "Optional title")
 
 
 In this library you will find a number of functions that you can perform validation
